@@ -11,7 +11,7 @@ and finally ended up with breaking the holder into two pieces and connecting the
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="255" alt="3D model of the part">
+      <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="175" alt="3D model of the part">
       <br>
       <span>3D model of the part</span>
     </td>
