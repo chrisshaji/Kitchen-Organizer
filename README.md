@@ -8,7 +8,7 @@ fit nice and snug in the drawer, it had to be about the length of the drawer whi
 it was too big for any 3D printer to print in one piece. We brainstormed and finally ended up with breaking the holder into two pieces and connecting them using 
 snap in joints.
 
-|  <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="190" alt="3D model of the part">| <img src="https://github.com/user-attachments/assets/f2725be6-d082-4d67-b092-01e3154ca345" width="260" height="355" alt="Test snap in joints">     |  <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="260" height="355" alt="Kitchen holder in use"> |
+|  <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="390" height="230" alt="3D model of the part">| <img src="https://github.com/user-attachments/assets/f2725be6-d082-4d67-b092-01e3154ca345" width="260" height="355" alt="Test snap in joints">     |  <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="260" height="355" alt="Kitchen holder in use"> |
 | :---:  |     :---:      |          :---:   |
 | 3D model of the part     | Test snap in joints       | Kitchen holder in use      |
 
@@ -16,7 +16,7 @@ snap in joints.
 Designing the snap in joints was harder than expected. We experimented with number of snap in joints, length, number of hooks, tolerancing etc. Initially, we went for 4 snap in
 joints, but after testing, it proved to be hard to disconect once joined, so we decided on using 2 snap in joints on either side as shown below. One counterintuitive thing about 
 it was to decrease the thickness and increase their length. While it make them slightly weaker, it was essential that the snap in joints were thin enough to provide the necessary
-flexure needed for repeatable use. We arrived at our final iteration of snap in joints after lots of testing and tolerancing. It was 3-d printed at the Mechanical Engineering
+flexure needed for repeatable use. We arrived at our final iteration of snap in joints after lots of testing and tolerancing. It was 3D printed at the Mechanical Engineering
 Rapid Prototyping Studio (RPS) at Texas A&M with PLA, 25% infill, 3 walls, and tree supports.
 
 
