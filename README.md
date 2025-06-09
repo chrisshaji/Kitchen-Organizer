@@ -11,7 +11,7 @@ and finally ended up with breaking the holder into two pieces and connecting the
 <table align="center">
   <tr>
     <td style="padding-right: 30px;">
-      <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="355" alt="3D model of the part">
+      <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="255" alt="3D model of the part">
       <br>
       <span>3D model of the part</span>
     </td>
@@ -21,7 +21,7 @@ and finally ended up with breaking the holder into two pieces and connecting the
       <span>Test snap in joints</span>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="300" height="355" alt="Kitchen holder in use">
+      <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="250" height="355" alt="Kitchen holder in use">
       <br>
       <span>Kitchen holder in use</span>
     </td>
