@@ -8,7 +8,7 @@ One major constraint we had to keep in mind was the size of the drawer. Since we
 of the drawer which was about 15 inches. We had to do some thinking in order to fabricate this as it was too big for any 3d printer to print in one piece. We brainstormed
 and finally ended up with breaking the holder into two pieces and connecting them using snap in joints.
 
-|  <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="190" alt="3D model of the part">| <img src="https://github.com/user-attachments/assets/f2725be6-d082-4d67-b092-01e3154ca345" width="250" height="355" alt="Test snap in joints">     |  <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="250" height="355" alt="Kitchen holder in use"> |
+|  <img src="https://github.com/user-attachments/assets/f4ceb509-6624-4ceb-8221-fc4f11072648" width="350" height="190" alt="3D model of the part">| <img src="https://github.com/user-attachments/assets/f2725be6-d082-4d67-b092-01e3154ca345" width="260" height="355" alt="Test snap in joints">     |  <img src="https://github.com/user-attachments/assets/aa08e0c5-3991-407d-ae7c-c30d8af153a7" width="260" height="355" alt="Kitchen holder in use"> |
 | :---:  |     :---:      |          :---:   |
 | 3D model of the part     | Test snap in joints       | Kitchen holder in use      |
 
