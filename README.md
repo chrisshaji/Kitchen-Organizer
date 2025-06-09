@@ -19,7 +19,7 @@ after lots of testing and tolerancing. It was 3-d printed using PLA, 10% infill,
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ec9b0e2-435e-499c-b8ae-dea054c0b0ad" alt="Top-down view of the kitchen holder with some utensils" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2ec9b0e2-435e-499c-b8ae-dea054c0b0ad" alt="Top-down view of the kitchen holder with some utensils" width="400" height "500"/>
   <br/>
   <em>Top-down view of the kitchen holder with some utensils</em>
 </p>
